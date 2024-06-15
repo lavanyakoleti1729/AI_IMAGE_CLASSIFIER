@@ -1,3 +1,3 @@
 # AI_IMAGE_CLASSIFIER
 
-# to deploy model using flask
+##to deploy model using flask
